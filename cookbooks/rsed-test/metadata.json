@@ -1,0 +1,30 @@
+{
+  "groupings": {
+  },
+  "recommendations": {
+  },
+  "maintainer": "YOUR_COMPANY_NAME",
+  "name": "rsed-test",
+  "attributes": {
+  },
+  "conflicting": {
+  },
+  "providing": {
+  },
+  "maintainer_email": "YOUR_EMAIL",
+  "version": "0.0.1",
+  "platforms": {
+  },
+  "dependencies": {
+  },
+  "license": "All rights reserved",
+  "description": "Installs/Configures rsed-test",
+  "recipes": {
+    "rsed-test::default": "Prints hellow world rsed output"
+  },
+  "replacing": {
+  },
+  "suggestions": {
+  },
+  "long_description": "Description\n===========\n\nRequirements\n============\n\nAttributes\n==========\n\nUsage\n=====\n\n"
+}
